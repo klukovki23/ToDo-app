@@ -1,4 +1,4 @@
-package com.fastandfurious.reindeer;
+package com.fastandfurious.reindeer.taskmanagement.ui.view;
 
 import com.vaadin.flow.component.page.AppShellConfigurator;
 import com.vaadin.flow.theme.Theme;
